@@ -11,5 +11,10 @@
     
 # Development environment:
     Languages: C#, HTML, CSS, JavaScript 
-    Framework: ASP.NET
+    Framework: 
+        * ASP.NET
+        *.NET Standard 1.5
+        *.NET Framework 4.5.6, 
+    
+# Server:
   
