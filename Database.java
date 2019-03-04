@@ -51,7 +51,7 @@ public class Database {
                                 modification_bool = false;
                                 exit = true;
                             } else {
-                                System.out.println("Invalid input.  Plase try again.");
+                                System.out.println("Invalid input. Plase try again.");
                                 exit = true;
                             }
                         }
